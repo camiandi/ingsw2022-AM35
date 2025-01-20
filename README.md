@@ -5,11 +5,11 @@ Implementation of the Game [Eriantys](https://www.craniocreations.it/prodotto/er
 
 Rules of the Game can be found [here](https://www.craniocreations.it/wp-content/uploads/2021/11/Eriantys_ITA_bassa.pdf)
 
-#Project Gallery
-<img width="1394" alt="Screenshot 2025-01-20 alle 10 37 02" src="https://github.com/user-attachments/assets/2f4c7fd2-931c-4166-b618-266f0af3dc2d" />
-<img width="1394" alt="Screenshot 2025-01-20 alle 10 36 07" src="https://github.com/user-attachments/assets/b46abfdb-f9ed-4de9-b4b5-26ac8442ae11" />
-<img width="1395" alt="Screenshot 2025-01-20 alle 10 35 29" src="https://github.com/user-attachments/assets/f11c495f-a720-4d30-a798-dbc193212f23" />
-<img width="1393" alt="Screenshot 2025-01-20 alle 10 35 05" src="https://github.com/user-attachments/assets/f38c0938-5a91-46d5-ab16-9dbdec59c95e" />
+# Project Gallery
+<img width="800" alt="Screenshot 2025-01-20 alle 10 37 02" src="https://github.com/user-attachments/assets/2f4c7fd2-931c-4166-b618-266f0af3dc2d" />
+<img width="800" alt="Screenshot 2025-01-20 alle 10 36 07" src="https://github.com/user-attachments/assets/b46abfdb-f9ed-4de9-b4b5-26ac8442ae11" />
+<img width="800" alt="Screenshot 2025-01-20 alle 10 35 29" src="https://github.com/user-attachments/assets/f11c495f-a720-4d30-a798-dbc193212f23" />
+<img width="800" alt="Screenshot 2025-01-20 alle 10 35 05" src="https://github.com/user-attachments/assets/f38c0938-5a91-46d5-ab16-9dbdec59c95e" />
 
 
 # Documents

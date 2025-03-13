@@ -7,7 +7,7 @@ Rules of the Game can be found [here](https://www.craniocreations.it/wp-content/
 
 # Description
 ## Overview
-This project, part of the Software Engineering course at Polytechnic of Milan, involved implementing the board game Eriantys in Java, featuring both GUI and CLI. It supports multiplayer gameplay, adheres to official rules, and implements all game functionalities.
+The Polytechnic of Milan's Final Project, involved implementing the board game Eriantys in Java, featuring both GUI and CLI. It supports multiplayer gameplay, adheres to official rules, and implements all game functionalities.
 
 ## Process
 The development began with UML-based architecture design, refined during implementation. Using JavaFX for the GUI, JUnit for testing, and Maven for build management, the project, following the Model-View-Controller pattern, ensures modularity and robust testing, achieving near-complete code coverage. A custom communication protocol supports socket-based multiplayer functionality
